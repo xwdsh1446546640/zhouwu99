@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wu Zhou 周武
+title: Wu Zhou
 
 # Full name (for SEO)
 first_name: Wu
