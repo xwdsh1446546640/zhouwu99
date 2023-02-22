@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Wu Zhou is a postgraduate student in the Victory Lab of the Beijing Institute of Electronic Technology. His research interests include music information retrieval, computer vision&pattern recognition and cryptography.
+Wu Zhou is a postgraduate student in the Victory Lab of the Beijing Institute of Electronic Technology. His research interests include music information retrieval, computer vision & pattern recognition and cryptography.
 {style="text-align: justify;"}
